@@ -1,1 +1,4 @@
-kdjskdnadansdkasndakdnasjdas
+function start(){
+
+}
+start()

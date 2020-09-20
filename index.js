@@ -1,4 +1,4 @@
-function start(){
+function start() {
 
 	const content = {}
 
